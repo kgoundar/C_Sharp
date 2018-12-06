@@ -1,0 +1,7 @@
+C:\Users\goundark\source\repos\NameSpace\NameSpace\bin\Debug\NameSpace.exe.config
+C:\Users\goundark\source\repos\NameSpace\NameSpace\bin\Debug\NameSpace.exe
+C:\Users\goundark\source\repos\NameSpace\NameSpace\bin\Debug\NameSpace.pdb
+C:\Users\goundark\source\repos\NameSpace\NameSpace\obj\Debug\NameSpace.csprojResolveAssemblyReference.cache
+C:\Users\goundark\source\repos\NameSpace\NameSpace\obj\Debug\NameSpace.csproj.CoreCompileInputs.cache
+C:\Users\goundark\source\repos\NameSpace\NameSpace\obj\Debug\NameSpace.exe
+C:\Users\goundark\source\repos\NameSpace\NameSpace\obj\Debug\NameSpace.pdb

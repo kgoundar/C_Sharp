@@ -1,0 +1,6 @@
+C:\Users\goundark\source\repos\Learning C#\Demo2\Demo2\bin\Debug\Demo2.exe.config
+C:\Users\goundark\source\repos\Learning C#\Demo2\Demo2\bin\Debug\Demo2.exe
+C:\Users\goundark\source\repos\Learning C#\Demo2\Demo2\bin\Debug\Demo2.pdb
+C:\Users\goundark\source\repos\Learning C#\Demo2\Demo2\obj\Debug\Demo2.csproj.CoreCompileInputs.cache
+C:\Users\goundark\source\repos\Learning C#\Demo2\Demo2\obj\Debug\Demo2.exe
+C:\Users\goundark\source\repos\Learning C#\Demo2\Demo2\obj\Debug\Demo2.pdb

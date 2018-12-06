@@ -1,0 +1,10 @@
+C:\Users\goundark\source\repos\Learning C#\desktopApp\desktopApp\bin\Debug\desktopApp.exe.config
+C:\Users\goundark\source\repos\Learning C#\desktopApp\desktopApp\bin\Debug\desktopApp.exe
+C:\Users\goundark\source\repos\Learning C#\desktopApp\desktopApp\bin\Debug\desktopApp.pdb
+C:\Users\goundark\source\repos\Learning C#\desktopApp\desktopApp\obj\Debug\desktopApp.csprojResolveAssemblyReference.cache
+C:\Users\goundark\source\repos\Learning C#\desktopApp\desktopApp\obj\Debug\desktopApp.Properties.Resources.resources
+C:\Users\goundark\source\repos\Learning C#\desktopApp\desktopApp\obj\Debug\desktopApp.csproj.GenerateResource.cache
+C:\Users\goundark\source\repos\Learning C#\desktopApp\desktopApp\obj\Debug\desktopApp.csproj.CoreCompileInputs.cache
+C:\Users\goundark\source\repos\Learning C#\desktopApp\desktopApp\obj\Debug\desktopApp.exe
+C:\Users\goundark\source\repos\Learning C#\desktopApp\desktopApp\obj\Debug\desktopApp.pdb
+C:\Users\goundark\source\repos\Learning C#\desktopApp\desktopApp\obj\Debug\desktopApp.Form1.resources

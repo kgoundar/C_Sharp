@@ -1,0 +1,7 @@
+C:\Users\goundark\source\repos\Learning C#\Hello World\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\goundark\source\repos\Learning C#\Hello World\Hello World\bin\Debug\Hello World.exe
+C:\Users\goundark\source\repos\Learning C#\Hello World\Hello World\bin\Debug\Hello World.pdb
+C:\Users\goundark\source\repos\Learning C#\Hello World\Hello World\obj\Debug\Hello World.csprojResolveAssemblyReference.cache
+C:\Users\goundark\source\repos\Learning C#\Hello World\Hello World\obj\Debug\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\goundark\source\repos\Learning C#\Hello World\Hello World\obj\Debug\Hello World.exe
+C:\Users\goundark\source\repos\Learning C#\Hello World\Hello World\obj\Debug\Hello World.pdb
