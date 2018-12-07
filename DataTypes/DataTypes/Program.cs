@@ -105,11 +105,39 @@ namespace DataTypes
 
 
 			//Bool Datatype; Used to define boolean value - either true or false
-			bool value = true;
-			bool value1 = false;
+			//bool value = true;
+			//bool value1 = false;
 
-			Console.WriteLine("The bool value is " + value);
-			Console.WriteLine("The bool vaule is " + value1);
+			//Console.WriteLine("The bool value is " + value);
+			//Console.WriteLine("The bool vaule is " + value1);
+			//Console.Read();
+
+
+			//String Data; used to defin sequence of characters
+			//string value = "Hello";
+			//string value1 = "World";
+
+			//Console.WriteLine("The string value is " + value);
+			//Console.WriteLine("The string vaule is " + value1);
+			//Console.Read();
+
+
+			//Decimal Datatype; decimal with 29 digits precision
+			//decimal dividend = Decimal.One;
+			//decimal divisor = 3;
+
+			//Console.WriteLine("The decimal vaule is " + dividend/divisor*divisor);
+			//Console.Read();
+
+
+			//Object Datatype; base of all types and can be used with any type
+			object value = "Hello";
+			object value1 = 1;
+			object value2 = 1.1;
+
+			Console.WriteLine("The object value is " + value);
+			Console.WriteLine("The object vaule is " + value1);
+			Console.WriteLine("The object value is " + value2);
 			Console.Read();
 
 		}
